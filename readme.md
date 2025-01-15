@@ -13,7 +13,7 @@ EasyQR is a simple and easy-to-use QR code generator. This tool allows you to cr
 ![GUI Mode](examples/guimode.png)
 
 ### CLI Mode (ex. Arch Linux, Termux)
-![GUI Mode](examples/guimode.png)
+![CLI Mode](examples/termuxcli.png)
 
 ## Installation
 
